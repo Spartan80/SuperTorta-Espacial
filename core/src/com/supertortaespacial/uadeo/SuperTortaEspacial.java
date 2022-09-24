@@ -8,11 +8,9 @@ import com.badlogic.gdx.utils.ScreenUtils;
 
 public class SuperTortaEspacial extends ApplicationAdapter {
 	
-	private ShapeRenderer renderer;
-	
 	@Override
 	public void create () {
-		renderer = new ShapeRenderer();
+
 	}
 
 	@Override
